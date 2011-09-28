@@ -1,0 +1,9 @@
+Package: com.understruction.processbadge
+Name: ProcessBadge
+Depends: mobilesubstrate
+Version: 0.5.3
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
